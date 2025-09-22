@@ -1,1 +1,30 @@
 /target
+# Build artifacts
+/target/
+Cargo.lock
+
+# Environment files
+.env
+.env.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+logs/
+
+# Personal config
+.claude/
+
+# Session recordings (optional - uncomment if you don't want to track)
+# ~/.coco/sessions/
