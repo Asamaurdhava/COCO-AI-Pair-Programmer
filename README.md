@@ -1,4 +1,4 @@
-# CoCo v2.0
+# CoCo - Code Companion
 ### AI Pair Programmer - Real-time Code Analysis & Insights
 
 > **See what AI thinks about your code as you write it**
